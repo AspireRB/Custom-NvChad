@@ -44,4 +44,10 @@ M.nvterm = {
   },
 }
 
+M.abc = {
+  n = {
+     ["<A-z>"] = {":set wrap!<CR>", "Wrap"},
+  },
+}
+
 return M
