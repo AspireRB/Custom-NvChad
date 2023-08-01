@@ -61,11 +61,6 @@ M.nvimtree = {
     relativenumber = true,
   },
 
-  filters = {
-    dotfiles = true,
-    custom = { "node_modules" },
-  },
-
   git = {
     enable = true,
   },
